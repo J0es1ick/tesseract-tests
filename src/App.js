@@ -74,8 +74,8 @@ function App() {
           value={selectedLanguage}
           onChange={handleLanguageChange}
         >
-          <option value="eng">English</option>
           <option value="rus">Russian</option>
+          <option value="eng">English</option>
           <option value="spa">Spanish</option>
           <option value="fra">French</option>
           <option value="deu">German</option>
