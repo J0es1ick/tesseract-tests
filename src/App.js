@@ -76,6 +76,7 @@ function App() {
         >
           <option value="rus">Russian</option>
           <option value="eng">English</option>
+          <option value="eng+rus">Russian-English</option>
           <option value="spa">Spanish</option>
           <option value="fra">French</option>
           <option value="deu">German</option>
